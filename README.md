@@ -4,7 +4,7 @@
    <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: I've Used 
  <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -15,7 +15,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2: Github Stats
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeazyone&show_icons=true&theme=radical)
 </div>
