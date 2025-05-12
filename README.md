@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=MyGithub)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Jiwon Github)
    <br/>
  <br/>
   
